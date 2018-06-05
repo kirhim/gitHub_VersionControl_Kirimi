@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("whats up")
         print("whats up2")
+        print("Whats up 3")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
